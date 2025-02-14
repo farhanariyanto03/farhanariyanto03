@@ -9,4 +9,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=farhanariyanto03&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @farhanariyanto03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhanariyanto03)](https://holopin.io/@farhanariyanto03)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
