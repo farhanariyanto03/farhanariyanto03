@@ -1,14 +1,125 @@
+# GitHub Trends
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farhanariyanto03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=farhanariyanto03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhanariyanto03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## SPECIAL: GitHub Wrapped
+
+Check out your GitHub Wrapped at `githubwrapped.io`!
+
+![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=farhanariyanto03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![An image of @farhanariyanto03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/farhanariyanto03)](https://holopin.io/@farhanariyanto03)
+## What is GitHub Trends
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+GitHub Trends dives deep into the GitHub API to bring you exciting and impactful metrics about your code contributions. Generate insights on lines written by language, repository, and time. Easily embed dynamic images into your GitHub profile to share your statistics with the world. Check out some of the examples below:
+
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed" />
+</a>
+
+## Quickstart
+
+First, visit `https://api.githubtrends.io/auth/signup/public` and create an account with GitHub Trends. Then, paste this string into your Markdown content, substituting your username.
+
+```md
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+```
+
+And voila, you get a card like above. Keep reading to learn more!
+
+## Why GitHub Trends?
+
+Unlike other projects which look at just your public repositories, GitHub Trends computes metrics based on your individual commits. If you commit to open-source projects, or have collaborators contribute to your own repositories, GitHub Trends will better measure your own code contributions. Through this method, GitHub Trends is the first project that allows users to surface lines of code written (LOC) by language and repository. Our web interface also allows for easier customization.
+
+# Usage
+
+## Website Workflow (Alpha)
+
+Visit [githubtrends.io](https://www.githubtrends.io) to create an account and get started!
+
+Have questions? Check out [the demo](https://www.githubtrends.io/demo)!
+
+![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)
+
+---
+
+## API Workflow (Alpha)
+
+Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](https://github.com/avgupta456/github-trends/blob/main/docs/API.md) to learn more about the API and customizations.
+
+## FAQ
+
+See [docs/FAQ.md](https://github.com/avgupta456/github-trends/blob/main/docs/FAQ.md).
+
+## Contributing
+
+See [docs/CONTRIBUTING.md](https://github.com/avgupta456/github-trends/blob/main/docs/CONTRIBUTING.md).
+
+## Acknowledgements
+
+# GitHub Trends
+
+## SPECIAL: GitHub Wrapped
+
+Check out your GitHub Wrapped at `githubwrapped.io`!
+
+![github-wrapped](https://github.com/avgupta456/github-trends/assets/16708871/bf9406a4-6a49-4dbf-8f60-af221bb84bd6)
+
+---
+
+## What is GitHub Trends
+
+GitHub Trends dives deep into the GitHub API to bring you exciting and impactful metrics about your code contributions. Generate insights on lines written by language, repository, and time. Easily embed dynamic images into your GitHub profile to share your statistics with the world. Check out some of the examples below:
+
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/langs?time_range=one_year&include_private=True&loc_metric=changed" />
+</a>
+<a href="https://githubtrends.io">
+  <img align="center" src="https://api.githubtrends.io/user/svg/avgupta456/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed" />
+</a>
+
+## Quickstart
+
+First, visit `https://api.githubtrends.io/auth/signup/public` and create an account with GitHub Trends. Then, paste this string into your Markdown content, substituting your username.
+
+```md
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
+```
+
+And voila, you get a card like above. Keep reading to learn more!
+
+## Why GitHub Trends?
+
+Unlike other projects which look at just your public repositories, GitHub Trends computes metrics based on your individual commits. If you commit to open-source projects, or have collaborators contribute to your own repositories, GitHub Trends will better measure your own code contributions. Through this method, GitHub Trends is the first project that allows users to surface lines of code written (LOC) by language and repository. Our web interface also allows for easier customization.
+
+# Usage
+
+## Website Workflow (Alpha)
+
+Visit [githubtrends.io](https://www.githubtrends.io) to create an account and get started!
+
+Have questions? Check out [the demo](https://www.githubtrends.io/demo)!
+
+![image](https://user-images.githubusercontent.com/16708871/138611082-105e4dbc-8a27-4f68-8045-f9d86c912429.png)
+
+---
+
+## API Workflow (Alpha)
+
+Alternatively, you can communicate directly with the API to create and customize your cards. Read [docs/API.md](https://github.com/avgupta456/github-trends/blob/main/docs/API.md) to learn more about the API and customizations.
+
+## FAQ
+
+See [docs/FAQ.md](https://github.com/avgupta456/github-trends/blob/main/docs/FAQ.md).
+
+## Contributing
+
+See [docs/CONTRIBUTING.md](https://github.com/avgupta456/github-trends/blob/main/docs/CONTRIBUTING.md).
+
+## Acknowledgements
+
+Much inspiration was taken from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). If you haven't already, check it out and give it a star!
+
+Much inspiration was taken from [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). If you haven't already, check it out and give it a star!
