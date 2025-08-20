@@ -9,7 +9,6 @@
 ### 👨‍💻 About Me
 ✨ Passionate about crafting scalable & user-friendly web applications.  
 💻 I love working with **Laravel | React | Next.js | Tailwind**.  
-🌱 Currently diving into **DevOps, Docker & Cloud Computing**.  
 🎯 Goal: To become a **high-impact Fullstack Engineer**.  
 ⚡ Fun fact: I code better with **coffee ☕ + lo-fi music 🎶**.  
 
@@ -30,7 +29,7 @@
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,php,laravel,nodejs,express,java,python,mysql,postgresql,mongodb,git,github,postman,figma,docker,flutter&perline=10" />
 </p>
@@ -40,7 +39,7 @@
 ### 🚀 Highlighted Projects
 🔹 [Travel Booking System](#) – Laravel + React fullstack app for booking travels & tours  
 🔹 [Disaster Relief Donation Platform](#) – Donation web app with real-time updates  
-🔹 [Library Management System](#) – Tailwind + Laravel, admin dashboard + CRUD  
+🔹 [Smart Mitigation](#) – Tailwind + Laravel, admin dashboard + CRUD  
 
 > 🔗 *More projects available on my [repositories](https://github.com/farhanariyanto03?tab=repositories)*  
 
@@ -79,3 +78,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=farhanariyanto03&label=Profile%20Views&color=00bfff&style=for-the-badge" alt="profile views"/>
 </p>
+
+---
+
