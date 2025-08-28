@@ -37,7 +37,7 @@
 ---
 
 ### 🚀 Highlighted Projects
-🔹 [Travel Booking System](#) – Laravel + React fullstack app for booking travels & tours  
+🔹 [Travel Booking System](#) – Laravel + React fullstack app for booking travels & tours
 🔹 [Disaster Relief Donation Platform](#) – Donation web app with real-time updates  
 🔹 [Smart Mitigation](#) – Tailwind + Laravel, admin dashboard + CRUD  
 
