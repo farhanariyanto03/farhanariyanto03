@@ -8,7 +8,7 @@
 
 ### 🏆 Personal Achievements
 
-🥇 Juara 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
+🥇 Juara 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2022)  
 🥇 Juara 1 **Hackathon SDG's** – Universitas Negeri Malang (2024)  
 
 🥈 Juara 2 **Web Technology OLIVI X** – Universitas Brawijaya (2025)  
