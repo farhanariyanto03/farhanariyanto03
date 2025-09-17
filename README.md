@@ -14,6 +14,21 @@
 
 ---
 
+### 🏆 Personal Achievements
+
+🥇 Juara 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
+🥇 Juara 1 **Hackathon SDG's** – Universitas Negeri Malang (2024)  
+
+🥈 Juara 2 **Web Technology OLIVI X** – Universitas Brawijaya (2025)  
+
+🥉 Juara 3 **Hackathon Play IT** – Politeknik Negeri Malang (2024)  
+
+🎖️ Harapan 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
+🎖️ Finalis **Hackfest** – Universitas Ciputra Surabaya (2020)  
+
+
+---
+
 ### 🌍 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/farhan-ariyanto-53166024a" target="_blank">
@@ -46,16 +61,18 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhanariyanto03&show_icons=true&theme=tokyonight&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanariyanto03&layout=compact&theme=tokyonight" height="180em"/>
-</p>
+<div align="center">
+
+![github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=farhanariyanto03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![github top lang](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=farhanariyanto03&layout=compact&theme=tokyonight&langs_count=10&hide_border=true)
+
+</div>
 
 ---
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=farhanariyanto03&theme=tokyonight&hide_border=false" height="180em"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanariyanto03&theme=tokyo-night&hide_border=true" height="200"/>
 </p>
 
 ---
