@@ -16,7 +16,7 @@
 🥉 Juara 3 **Hackathon Play IT** – Politeknik Negeri Malang (2024)  
 
 🎖️ Harapan 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
-🎖️ Finalis **Hackfest** – Universitas Ciputra Surabaya (2020)  
+🎖️ Finalis **Hackfest** – Universitas Ciputra Surabaya (2025)  
 
 ---
 
