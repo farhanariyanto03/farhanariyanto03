@@ -6,14 +6,6 @@
 
 ---
 
-### 👨‍💻 About Me
-✨ Passionate about crafting scalable & user-friendly web applications.  
-💻 I love working with **Laravel | React | Next.js | Tailwind**.  
-🎯 Goal: To become a **high-impact Fullstack Engineer**.  
-⚡ Fun fact: I code better with **coffee ☕ + lo-fi music 🎶**.  
-
----
-
 ### 🏆 Personal Achievements
 
 🥇 Juara 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
@@ -25,7 +17,6 @@
 
 🎖️ Harapan 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
 🎖️ Finalis **Hackfest** – Universitas Ciputra Surabaya (2020)  
-
 
 ---
 
