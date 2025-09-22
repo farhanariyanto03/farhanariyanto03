@@ -9,11 +9,11 @@
 ### 🏆 Personal Achievements
 
 🥇 Juara 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2022)  
-🥇 Juara 1 **Hackathon SDG's** – Universitas Negeri Malang (2024)  
+🥇 Juara 1 **Hackathon SDG's National** – Universitas Negeri Malang (2024)  
 
-🥈 Juara 2 **Web Technology OLIVI X** – Universitas Brawijaya (2025)  
+🥈 Juara 2 **Web Technology OLIVI X National** – Universitas Brawijaya (2025)  
 
-🥉 Juara 3 **Hackathon Play IT** – Politeknik Negeri Malang (2024)  
+🥉 Juara 3 **Hackathon Play IT National** – Politeknik Negeri Malang (2024)  
 
 🎖️ Harapan 1 **TIF EXHIBITION** – Politeknik Negeri Jember (2024)  
 🎖️ Finalis **Hackfest** – Universitas Ciputra Surabaya (2025)  
